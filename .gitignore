@@ -1,0 +1,8 @@
+/models/
+/test/
+/train/
+
+Dog_breed_identification_vgg.ipynb
+submission_resnet.csv
+submission_vgg.csv
+submission.csv
